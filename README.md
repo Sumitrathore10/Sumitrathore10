@@ -33,7 +33,7 @@
 ### 📫 Get in Touch
 - Email: [srathore132005@gmail.com](mailto:srathore132005@gmail.com)
 
----
+
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -42,7 +42,7 @@
   </a>
 </p>
 
----
+
 
 <h3 align="left">🛠 Skills & Tools:</h3>
 <p align="left">
@@ -81,13 +81,13 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
   <img height="200px" width="400px" src="https://media.giphy.com/media/7dSkw3wUk8O3Xj9Hsz/giphy.gif" alt="coding-animation" />
 </p>
 
----
+
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
@@ -102,7 +102,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitrathore10&" alt="Streak Stats" />
 </p>
 
----
 
 <p align="center">
   Thank you for visiting my profile! 🚀
