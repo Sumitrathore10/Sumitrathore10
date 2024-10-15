@@ -33,7 +33,7 @@
 ### 📫 Get in Touch
 - Email: [srathore132005@gmail.com](mailto:srathore132005@gmail.com)
 
-
+---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -42,7 +42,7 @@
   </a>
 </p>
 
-
+---
 
 <h3 align="left">🛠 Skills & Tools:</h3>
 <p align="left">
@@ -71,38 +71,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60" />
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="60" height="60" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60" />
-  </a>
-</p>
-
-
-
-<p align="center">
-  <img height="200px" width="400px" src="https://media.giphy.com/media/7dSkw3wUk8O3Xj9Hsz/giphy.gif" alt="coding-animation" />
-</p>
-
-
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitrathore10&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitrathore10&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitrathore10&" alt="Streak Stats" />
-</p>
-
-
-<p align="center">
-  Thank you for visiting my profile! 🚀
-</p>
+    <img src="https://
