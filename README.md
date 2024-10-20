@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=sumitrathore)
 [![Github](https://img.shields.io/github/followers/sumitrathore10?label=Follow&style=social)](https://github.com/sumitrathore10)
-![BANNER](https://github.com/sumitrathore10/sumitrathore10/assets/95496933/87a10632-58bc-4964-96a7-7752428e4a64)
+
 
 <h1 align="center">Ram-Ram🙏🏻, I'm Govind Harsh Sharma. </h1>
 
