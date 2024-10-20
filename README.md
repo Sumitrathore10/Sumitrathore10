@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=sumitrathore)
 [![Github](https://img.shields.io/github/followers/sumitrathore10?label=Follow&style=social)](https://github.com/sumitrathore10)
 <br/>
-<img src="240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890 (1).gif" alt="BANNER" style="width: 100vw; height: 100vH;"/>
+<img src="240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890 (1).gif" alt="BANNER" style="width: 100vw; height: auto;"/>
 
 
 <h1 align="center">Hello Buddy 🙏🏻, I'm Sumit Rathore. </h1>
