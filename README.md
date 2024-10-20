@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=sumitrathore)
 [![Github](https://img.shields.io/github/followers/sumitrathore10?label=Follow&style=social)](https://github.com/sumitrathore10)
 <br/>
-<img src="https://private-user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk0MzI3NDAsIm5iZiI6MTcyOTQzMjQ0MCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTUwNjgtOTkzMzcwYWYtMTFmNC00OGU3LTllMGQtZTViNzljMmU3ODkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIwVDEzNTQwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdjNDY2MzM4Y2VhYjhiYjc5MTU5NDlmZjBkYmNiMGNkYWI4NzRiODlhMjE2ZDY2Njc4ODZmODcwNWE1MWIyOWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.z7uEQMPEXc8oWtyT72x-o8HKt5GeWz1kiC4taIt2PCU" alt="BANNER" style="width: 100vw; height: 40vw;"/>
+<img src="" alt="BANNER" style="width: 100vw; height: 40vw;"/>
 
 
 <h1 align="center">Hello Buddy 🙏🏻, I'm Sumit Rathore. </h1>
