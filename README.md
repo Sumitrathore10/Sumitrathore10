@@ -9,6 +9,7 @@
 
 <h3 align="left">About Me:</h3>
 
+```javascript
 const sumitrathore = {
   fullName: "Sumit Rathore",
   pronouns: "He/Him",
@@ -18,7 +19,7 @@ const sumitrathore = {
   reachMeOut: ["sumitrathore132005example.com"], // Update with your actual email if needed
   toFindMeUsername: "@sumitrathore10"
 };
-
+```
 
 <br>
 
