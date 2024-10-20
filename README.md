@@ -12,8 +12,8 @@
 <h3 align="left">About Me:</h3>
 
 <div style="background-color: rgba(11, 45, 27, 0.689);">
-    
-    ```javascript
+
+ ```javascript
 const sumitrathore = {
   fullName: "Sumit Rathore",
   pronouns: "He/Him",
@@ -24,8 +24,6 @@ const sumitrathore = {
   toFindMeUsername: "@sumitrathore10"
 };
 ```
-</div>
-
 
 <br>
 
