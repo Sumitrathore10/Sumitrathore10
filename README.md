@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm Sumit Rathore
 
-<!--
-**Sumitrathore10/Sumitrathore10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🎓 BTech 2nd Year Student | MERN Stack Developer
+- 🌐 Passionate about Web Development, DevOps, and Cloud
+- 🚀 Currently working on: Edusavvy | Hackshtra | Devndez
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- ⚛️ React.js | 📦 Node.js | 📄 MongoDB | 🌐 Express.js
+- ☁️ Google Cloud | Docker | Linux Basics
+- 🎨 Tailwind CSS | Framer Motion | UI/UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitrathore&show_icons=true&theme=radical)
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitrathore&layout=compact)
+
+## 📫 Contact Me
+- 📧 Email: yourname@gmail.com
+- 📸 Instagram: [@yourusername](https://instagram.com/yourusername)
+- 💼 LinkedIn: [YourName](https://linkedin.com/in/yourname)
