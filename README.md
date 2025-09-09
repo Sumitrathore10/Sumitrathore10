@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Sumit Rathore  
 
 <p align="center">
-  <img src="https://imgs.search.brave.com/RPkYt20XONWU_8sJ42Rqcbc4IlTKWyY4aaF0uUfqEcc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/NTg4MTgxOTMyL2Uz/NmVjNjc4LTc5ODQt/NGNkZC04ZTRjLWEz/OTMyNzcyZmY4ZQ" alt="Typing SVG" />
+  <img src="https://imgs.search.brave.com/RPkYt20XONWU_8sJ42Rqcbc4IlTKWyY4aaF0uUfqEcc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/NTg4MTgxOTMyL2Uz/NmVjNjc4LTc5ODQt/NGNkZC04ZTRjLWEz/OTMyNzcyZmY4ZQ" style="width : "100%"; " alt="Typing SVG" />
 </p>
 
 ---
